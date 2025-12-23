@@ -1,7 +1,14 @@
 <!-- README.md - QuickShop -->
 
-<body style="background: linear-gradient(135deg, #f0f9ff 0%, #e0f2fe 100%); margin: 0; padding: 20px;">
-
+<body style="
+    background: linear-gradient(135deg, #fffbeb 0%, #fed7aa 100%);
+    background-image: 
+        radial-gradient(circle at 25% 25%, rgba(255, 158, 128, 0.15) 0%, transparent 55%),
+        radial-gradient(circle at 75% 75%, rgba(255, 228, 181, 0.15) 0%, transparent 55%);
+    margin: 0;
+    padding: 20px;
+">
+    
 <div style="
     background-color: #ffffff;
     border-left: 4px solid #3b82f6;
