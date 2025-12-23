@@ -110,10 +110,10 @@ L'application élimine les oublis et les papiers perdus en permettant aux utilis
 <div align="center">
   <table>
     <tr>
-      <td align="center"><strong>Authentification</strong><br><img src="images/Cnx_Enrg.png" width="160" height="350" alt="Écran de connexion" style="object-fit: cover; border-radius: 12px; border: 2px solid #e2e8f0;"></td>
-      <td align="center"><strong>Accueil & Navigation</strong><br><img src="images/Home.png" width="160" height="350" alt="Écran d'accueil" style="object-fit: cover; border-radius: 12px; border: 2px solid #e2e8f0;"></td>
-      <td align="center"><strong>Gestion des Produits</strong><br><img src="images/Produits3.png" width="160" height="350" alt="Catalogue produits" style="object-fit: cover; border-radius: 12px; border: 2px solid #e2e8f0;"></td>
-      <td align="center"><strong>Panier & Commandes</strong><br><img src="images/Mes_Chariots1.png" width="160" height="350" alt="Mon chariot" style="object-fit: cover; border-radius: 12px; border: 2px solid #e2e8f0;"></td>
+      <td align="center"><strong>Authentification</strong><br><img src="images/Cnx_Enrg.png" width="200" height="350" alt="Écran de connexion" style="object-fit: cover; border-radius: 12px; border: 2px solid #e2e8f0;"></td>
+      <td align="center"><strong>Accueil & Navigation</strong><br><img src="images/Home.png" width="200" height="350" alt="Écran d'accueil" style="object-fit: cover; border-radius: 12px; border: 2px solid #e2e8f0;"></td>
+      <td align="center"><strong>Gestion des Produits</strong><br><img src="images/Produits3.png" width="200" height="350" alt="Catalogue produits" style="object-fit: cover; border-radius: 12px; border: 2px solid #e2e8f0;"></td>
+      <td align="center"><strong>Panier & Commandes</strong><br><img src="images/Mes_Chariots1.png" width="200" height="350" alt="Mon chariot" style="object-fit: cover; border-radius: 12px; border: 2px solid #e2e8f0;"></td>
     </tr>
     <tr>
       <td align="center"><em>Connexion & Inscription</em></td>
@@ -127,10 +127,10 @@ L'application élimine les oublis et les papiers perdus en permettant aux utilis
 
   <table>
     <tr>
-      <td align="center"><strong>Profil Utilisateur</strong><br><img src="images/Interface_profile.png" width="160" height="350" alt="Profil" style="object-fit: cover; border-radius: 12px; border: 2px solid #e2e8f0;"></td>
-      <td align="center"><strong>Navigation Latérale</strong><br><img src="images/navigation.png" width="160" height="350" alt="Menu" style="object-fit: cover; border-radius: 12px; border: 2px solid #e2e8f0;"></td>
-      <td align="center"><strong>Interface Catégories</strong><br><img src="images//Interface_Catégories.png" width="160" height="350" alt="Nouveautés" style="object-fit: cover; border-radius: 12px; border: 2px solid #e2e8f0;"></td>
-      <td align="center"><strong>Commandes Passées</strong><br><img src="images/Mes_Commandes.png" width="160" height="350" alt="Historique" style="object-fit: cover; border-radius: 12px; border: 2px solid #e2e8f0;"></td>
+      <td align="center"><strong>Profil Utilisateur</strong><br><img src="images/Interface_profile.png" width="200" height="350" alt="Profil" style="object-fit: cover; border-radius: 12px; border: 2px solid #e2e8f0;"></td>
+      <td align="center"><strong>Navigation Latérale</strong><br><img src="images/navigation.png" width="200" height="350" alt="Menu" style="object-fit: cover; border-radius: 12px; border: 2px solid #e2e8f0;"></td>
+      <td align="center"><strong>Interface Catégories</strong><br><img src="images//Interface_Catégories.png" width="200" height="350" alt="Nouveautés" style="object-fit: cover; border-radius: 12px; border: 2px solid #e2e8f0;"></td>
+      <td align="center"><strong>Commandes Passées</strong><br><img src="images/Mes_Commandes.png" width="200" height="350" alt="Historique" style="object-fit: cover; border-radius: 12px; border: 2px solid #e2e8f0;"></td>
     </tr>
     <tr>
       <td align="center"><em>Gestion du compte</em></td>
