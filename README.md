@@ -112,7 +112,7 @@ L'application élimine les oublis et les papiers perdus en permettant aux utilis
     <tr>
       <td align="center"><strong>Authentification</strong><br><img src="images/Cnx_Enrg.png" width="160" height="300" alt="Écran de connexion" style="object-fit: cover; border-radius: 12px; border: 2px solid #e2e8f0;"></td>
       <td align="center"><strong>Accueil & Navigation</strong><br><img src="images/Home.png" width="160" height="300" alt="Écran d'accueil" style="object-fit: cover; border-radius: 12px; border: 2px solid #e2e8f0;"></td>
-      <td align="center"><strong>Gestion des Produits</strong><br><img src="images/Produits.png" width="160" height="300" alt="Catalogue produits" style="object-fit: cover; border-radius: 12px; border: 2px solid #e2e8f0;"></td>
+      <td align="center"><strong>Gestion des Produits</strong><br><img src="images/Produits3.png" width="160" height="300" alt="Catalogue produits" style="object-fit: cover; border-radius: 12px; border: 2px solid #e2e8f0;"></td>
       <td align="center"><strong>Panier & Commandes</strong><br><img src="images/Mes_Chariots1.png" width="160" height="300" alt="Mon chariot" style="object-fit: cover; border-radius: 12px; border: 2px solid #e2e8f0;"></td>
     </tr>
     <tr>
@@ -129,7 +129,7 @@ L'application élimine les oublis et les papiers perdus en permettant aux utilis
     <tr>
       <td align="center"><strong>Profil Utilisateur</strong><br><img src="images/Interface_profile.png" width="160" height="300" alt="Profil" style="object-fit: cover; border-radius: 12px; border: 2px solid #e2e8f0;"></td>
       <td align="center"><strong>Navigation Latérale</strong><br><img src="images/navigation.png" width="160" height="300" alt="Menu" style="object-fit: cover; border-radius: 12px; border: 2px solid #e2e8f0;"></td>
-      <td align="center"><strong>Nouveaux Produits</strong><br><img src="images/Nouveaux_Produits.png" width="160" height="300" alt="Nouveautés" style="object-fit: cover; border-radius: 12px; border: 2px solid #e2e8f0;"></td>
+      <td align="center"><strong>Interface Catégories</strong><br><img src="images/_Catégories.png" width="160" height="300" alt="Nouveautés" style="object-fit: cover; border-radius: 12px; border: 2px solid #e2e8f0;"></td>
       <td align="center"><strong>Commandes Passées</strong><br><img src="images/Mes_Commandes.png" width="160" height="300" alt="Historique" style="object-fit: cover; border-radius: 12px; border: 2px solid #e2e8f0;"></td>
     </tr>
     <tr>
@@ -262,6 +262,8 @@ L'application élimine les oublis et les papiers perdus en permettant aux utilis
 Découvrez l'interface, le flux de création de liste et la synchronisation en temps réel en action.
 
 </div>
+
+<br>
 
 [![Voir la démonstration vidéo de QuickShop](https://img.shields.io/badge/🎥_Voir_la_vidéo_complète_de_présentation-FF0000?style=for-the-badge&logo=youtube)](https://drive.google.com/file/d/1GldkgduyCsms0uyCwzus27wffzp5_uOQ/view?usp=sharing)
 
