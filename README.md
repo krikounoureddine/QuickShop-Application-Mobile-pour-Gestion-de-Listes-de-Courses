@@ -41,7 +41,7 @@
 
 <h1 style="margin-top: 2rem; font-size: 2.5rem;">🛒 QuickShop</h1>
 <p style="font-size: 1.1rem; opacity: 0.95; max-width: 800px; margin: 1rem auto; line-height: 1.6;">
-QuickShop est une application mobile Android innovante conçue pour simplifier et optimiser la gestion des listes de courses. Avec une synchronisation en temps réel via Firebase, une interface intuitive et des fonctionnalités intelligentes, elle transforme l'expérience d'achat en un processus organisé et collaboratif.
+C'est une application mobile Android innovante conçue pour simplifier et optimiser la gestion des listes de courses. Avec une synchronisation en temps réel via Firebase, une interface intuitive et des fonctionnalités intelligentes, elle transforme l'expérience d'achat en un processus organisé et collaboratif.
 </p>
 
 </div>
@@ -309,7 +309,7 @@ Ce projet est open-source et distribué sous la licence **MIT**. Cela signifie q
 
 [![GitHub](https://img.shields.io/badge/GitHub-krikounoureddine-black?style=for-the-badge&logo=github)](https://github.com/krikounoureddine)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visitez_mon_site-orange?style=for-the-badge&logo=google-chrome)](https://krikounoureddine.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connectez-vous-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/noureddine-krikou)
+[![LinkedIn][![LinkedIn](https://img.shields.io/badge/LinkedIn-Noureddine_Krikou-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/noureddine-krikou)
 
 📧 **Pour toute question, suggestion ou opportunité de collaboration :**
 
@@ -333,61 +333,9 @@ QuickShop n'est pas seulement une application de liste de courses. C'est la preu
 
 > ⭐ **Vous aimez ce projet ?** Pensez à **laisser une étoile** sur [GitHub](https://github.com/krikounoureddine/QuickShop) ! Cela aide énormément à sa visibilité.
 
-<div align="center" style="margin-top: 3rem; padding: 2rem; background: linear-gradient(to right, #f8fafc, #f1f5f9); border-radius: 12px;">
-
----
-
-**🛒 QuickShop • Simplifiez vos courses, organisez votre temps.**
-
-[![Télécharger sur le Play Store](https://img.shields.io/badge/Disponible_Prochainement_sur_Google_Play-414141?style=for-the-badge&logo=google-play)](https://play.google.com/store)
-[![Voir le Code Source](https://img.shields.io/badge/📂_Voir_le_Code_Source_Complet-1e293b?style=for-the-badge)](https://github.com/krikounoureddine/QuickShop)
-
+<div align="center" style="margin-top: 3rem; padding: 2rem; background: linear-gradient(to right, #f8fafc, #f1f5f9); border-radius: 12px;"> 
+   <p>  🛒 QuickShop • Simplifiez vos courses, organisez votre temps.</p>
 </div>
-
-# 🛒 QuickShop - Application Mobile
-
-## 📌 Contexte du Projet
-
-Dans un monde où l'organisation et la gestion des tâches quotidiennes deviennent de plus en plus essentielles, **QuickShop** a été développée pour simplifier l'expérience des utilisateurs lors de leurs achats.
-
-L'application permet de **créer, organiser et partager des listes de courses** en toute simplicité. Plus besoin d'oubli ou de papier perdu ! Grâce à une **synchronisation en temps réel** via **Firebase**, les utilisateurs peuvent modifier leurs listes et y accéder depuis n'importe où.
-
-Que ce soit pour une utilisation personnelle, en famille ou en colocation, **QuickShop** propose une interface intuitive qui optimise le **temps passé en magasin** et **évite les achats inutiles**.
-
-Avec ses fonctionnalités avancées, telles que **la gestion des produits par catégorie**, **les suggestions intelligentes basées sur les habitudes d'achat** et **le partage en temps réel**, cette application devient l'alliée idéale pour une meilleure organisation des courses.
-
-🔥 **Objectif :** Offrir aux utilisateurs une solution efficace et moderne pour gérer leurs listes d’achats et simplifier leur quotidien !
-
----
-
-## 🚀 Fonctionnalités Principales  
-
-✅ **Création et gestion des listes**  
-- Ajout, modification et suppression d'articles dans une liste de courses.  
-- Organisation des produits par catégorie (fruits, légumes, produits laitiers, etc.).  
-
-✅ **Partage des listes**  
-- Possibilité de partager une liste avec d'autres utilisateurs en temps réel.  
-
-✅ **Suggestions intelligentes**  
-- Recommandations basées sur les habitudes d'achat.  
-- Ajout rapide des articles fréquemment achetés.  
-
-✅ **Mode hors-ligne**  
-- Gestion des listes même sans connexion Internet.  
-
-✅ **Interface intuitive**  
-- Design ergonomique et facile à utiliser.  
-- Thème clair et sombre disponible.  
-
----
-
-## 🛠 Technologies Utilisées  
-
-🔹 **Backend & Base de Données** : Firebase (Storage, Authentication, Cloud Firestore, Realtime Database)  
-🔹 **Frontend & Développement Mobile** : Java, Android Studio, XML  
-🔹 **APIs & Réseaux** : Retrofit (requêtes HTTP), Gson (JSON Parsing)  
-🔹 **Gestion des Médias** : Picasso (chargement des images)  
 
 ---
 
@@ -424,11 +372,3 @@ Avec ses fonctionnalités avancées, telles que **la gestion des produits par ca
 | <img src="images/Mes_Chariots1.png" width="150"> | <img src="images/Mes_Commandes.png" width="150"> | <img src="images/Nouveaux_Produits.png" width="150"> |
 
 ---
-
-## Vidéo de Présentation
-
-🎥 [Voir la vidéo de présentation Cliquez ici](https://drive.google.com/file/d/1GldkgduyCsms0uyCwzus27wffzp5_uOQ/view?usp=sharing)
-
----
-
-📩 Contactez-moi pour toute suggestion ou collaboration !
