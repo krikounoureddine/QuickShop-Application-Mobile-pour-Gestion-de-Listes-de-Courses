@@ -110,10 +110,10 @@ L'application élimine les oublis et les papiers perdus en permettant aux utilis
 <div align="center">
   <table>
     <tr>
-      <td align="center"><strong>Authentification</strong><br><img src="images/Cnx_Enrg.png" width="200" height="350" alt="Écran de connexion" style="object-fit: cover; border-radius: 12px; border: 2px solid #e2e8f0;"></td>
-      <td align="center"><strong>Accueil & Navigation</strong><br><img src="images/Home.png" width="200" height="350" alt="Écran d'accueil" style="object-fit: cover; border-radius: 12px; border: 2px solid #e2e8f0;"></td>
-      <td align="center"><strong>Gestion des Produits</strong><br><img src="images/Produits3.png" width="200" height="350" alt="Catalogue produits" style="object-fit: cover; border-radius: 12px; border: 2px solid #e2e8f0;"></td>
-      <td align="center"><strong>Panier & Commandes</strong><br><img src="images/Mes_Chariots1.png" width="200" height="350" alt="Mon chariot" style="object-fit: cover; border-radius: 12px; border: 2px solid #e2e8f0;"></td>
+      <td align="center"><strong>Authentification</strong><br><img src="images/Cnx_Enrg.png" width="200" alt="Écran de connexion" style="object-fit: cover; border-radius: 12px; border: 2px solid #e2e8f0;"></td>
+      <td align="center"><strong>Accueil & Navigation</strong><br><img src="images/Home.png" width="200" alt="Écran d'accueil" style="object-fit: cover; border-radius: 12px; border: 2px solid #e2e8f0;"></td>
+      <td align="center"><strong>Gestion des Produits</strong><br><img src="images/Produits3.png" width="200" height="350" alt="Catalogue produits" style="object-fit: contain; border-radius: 12px; border: 2px solid #e2e8f0;"></td>
+      <td align="center"><strong>Panier & Commandes</strong><br><img src="images/Mes_Chariots1.png" width="200" height="350" alt="Mon chariot" style="object-fit: contain; background: #f8f9fa ; border-radius: 12px; border: 2px solid #e2e8f0;"></td>
     </tr>
     <tr>
       <td align="center"><em>Connexion & Inscription</em></td>
