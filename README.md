@@ -309,7 +309,7 @@ Ce projet est open-source et distribué sous la licence **MIT**. Cela signifie q
 
 [![GitHub](https://img.shields.io/badge/GitHub-krikounoureddine-black?style=for-the-badge&logo=github)](https://github.com/krikounoureddine)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visitez_mon_site-orange?style=for-the-badge&logo=google-chrome)](https://krikounoureddine.github.io)
-[![LinkedIn][![LinkedIn](https://img.shields.io/badge/LinkedIn-Noureddine_Krikou-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/noureddine-krikou)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Noureddine_Krikou-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/noureddine-krikou)
 
 📧 **Pour toute question, suggestion ou opportunité de collaboration :**
 
