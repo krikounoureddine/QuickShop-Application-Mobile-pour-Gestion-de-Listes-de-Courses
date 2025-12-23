@@ -110,10 +110,10 @@ L'application élimine les oublis et les papiers perdus en permettant aux utilis
 <div align="center">
   <table>
     <tr>
-      <td align="center"><strong>Authentification</strong><br><img src="images/Cnx_Enrg.png" width="160" height="280" alt="Écran de connexion" style="object-fit: cover; border-radius: 12px; border: 2px solid #e2e8f0;"></td>
-      <td align="center"><strong>Accueil & Navigation</strong><br><img src="images/Home.png" width="160" height="280" alt="Écran d'accueil" style="object-fit: cover; border-radius: 12px; border: 2px solid #e2e8f0;"></td>
-      <td align="center"><strong>Gestion des Produits</strong><br><img src="images/Produits.png" width="160" height="280" alt="Catalogue produits" style="object-fit: cover; border-radius: 12px; border: 2px solid #e2e8f0;"></td>
-      <td align="center"><strong>Panier & Commandes</strong><br><img src="images/Mes_Chariots1.png" width="160" height="280" alt="Mon chariot" style="object-fit: cover; border-radius: 12px; border: 2px solid #e2e8f0;"></td>
+      <td align="center"><strong>Authentification</strong><br><img src="images/Cnx_Enrg.png" width="160" height="300" alt="Écran de connexion" style="object-fit: cover; border-radius: 12px; border: 2px solid #e2e8f0;"></td>
+      <td align="center"><strong>Accueil & Navigation</strong><br><img src="images/Home.png" width="160" height="300" alt="Écran d'accueil" style="object-fit: cover; border-radius: 12px; border: 2px solid #e2e8f0;"></td>
+      <td align="center"><strong>Gestion des Produits</strong><br><img src="images/Produits.png" width="160" height="300" alt="Catalogue produits" style="object-fit: cover; border-radius: 12px; border: 2px solid #e2e8f0;"></td>
+      <td align="center"><strong>Panier & Commandes</strong><br><img src="images/Mes_Chariots1.png" width="160" height="300" alt="Mon chariot" style="object-fit: cover; border-radius: 12px; border: 2px solid #e2e8f0;"></td>
     </tr>
     <tr>
       <td align="center"><em>Connexion & Inscription</em></td>
@@ -127,10 +127,10 @@ L'application élimine les oublis et les papiers perdus en permettant aux utilis
 
   <table>
     <tr>
-      <td align="center"><strong>Profil Utilisateur</strong><br><img src="images/Interface_profile.png" width="160" height="280" alt="Profil" style="object-fit: cover; border-radius: 12px; border: 2px solid #e2e8f0;"></td>
-      <td align="center"><strong>Navigation Latérale</strong><br><img src="images/navigation.png" width="160" height="280" alt="Menu" style="object-fit: cover; border-radius: 12px; border: 2px solid #e2e8f0;"></td>
-      <td align="center"><strong>Nouveaux Produits</strong><br><img src="images/Nouveaux_Produits.png" width="160" height="280" alt="Nouveautés" style="object-fit: cover; border-radius: 12px; border: 2px solid #e2e8f0;"></td>
-      <td align="center"><strong>Commandes Passées</strong><br><img src="images/Mes_Commandes.png" width="160" height="280" alt="Historique" style="object-fit: cover; border-radius: 12px; border: 2px solid #e2e8f0;"></td>
+      <td align="center"><strong>Profil Utilisateur</strong><br><img src="images/Interface_profile.png" width="160" height="300" alt="Profil" style="object-fit: cover; border-radius: 12px; border: 2px solid #e2e8f0;"></td>
+      <td align="center"><strong>Navigation Latérale</strong><br><img src="images/navigation.png" width="160" height="300" alt="Menu" style="object-fit: cover; border-radius: 12px; border: 2px solid #e2e8f0;"></td>
+      <td align="center"><strong>Nouveaux Produits</strong><br><img src="images/Nouveaux_Produits.png" width="160" height="300" alt="Nouveautés" style="object-fit: cover; border-radius: 12px; border: 2px solid #e2e8f0;"></td>
+      <td align="center"><strong>Commandes Passées</strong><br><img src="images/Mes_Commandes.png" width="160" height="300" alt="Historique" style="object-fit: cover; border-radius: 12px; border: 2px solid #e2e8f0;"></td>
     </tr>
     <tr>
       <td align="center"><em>Gestion du compte</em></td>
@@ -167,6 +167,7 @@ L'application élimine les oublis et les papiers perdus en permettant aux utilis
 ## 🛠️ Technologies Utilisées  
 
 ### 📱 **Développement Mobile**
+
 | Technologie | Rôle dans le Projet |
 |-------------|---------------------|
 | **Java** | Langage principal pour la logique métier et l'interface. |
@@ -175,6 +176,7 @@ L'application élimine les oublis et les papiers perdus en permettant aux utilis
 | **XML** | Définition des layouts et des ressources d'interface. |
 
 ### ☁️ **Backend & Données**
+
 | Technologie | Rôle dans le Projet |
 |-------------|---------------------|
 | **Firebase Authentication** | Gestion sécurisée des utilisateurs (email, Google). |
@@ -183,6 +185,7 @@ L'application élimine les oublis et les papiers perdus en permettant aux utilis
 | **Firebase Storage** | Hébergement des images de produits. |
 
 ### 🛠️ **Bibliothèques & Utilitaires**
+
 | Bibliothèque | Utilisation |
 |--------------|-------------|
 | **Retrofit** | Effectuer des appels API REST (si intégration externe). |
@@ -256,11 +259,11 @@ L'application élimine les oublis et les papiers perdus en permettant aux utilis
 
 <div align="center">
 
-[![Voir la démonstration vidéo de QuickShop](https://img.shields.io/badge/🎥_Voir_la_vidéo_complète_de_présentation-FF0000?style=for-the-badge&logo=youtube)](https://drive.google.com/file/d/1GldkgduyCsms0uyCwzus27wffzp5_uOQ/view?usp=sharing)
-
-*Découvrez l'interface, le flux de création de liste et la synchronisation en temps réel en action.*
+Découvrez l'interface, le flux de création de liste et la synchronisation en temps réel en action.
 
 </div>
+
+[![Voir la démonstration vidéo de QuickShop](https://img.shields.io/badge/🎥_Voir_la_vidéo_complète_de_présentation-FF0000?style=for-the-badge&logo=youtube)](https://drive.google.com/file/d/1GldkgduyCsms0uyCwzus27wffzp5_uOQ/view?usp=sharing)
 
 ---
 
@@ -307,6 +310,7 @@ Ce projet est open-source et distribué sous la licence **MIT**. Cela signifie q
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connectez-vous-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/noureddine-krikou)
 
 📧 **Pour toute question, suggestion ou opportunité de collaboration :**
+
 [![Email](https://img.shields.io/badge/Écrire_un_email-contact%40krikou.dev-0078D4?style=for-the-badge&logo=microsoft-outlook)](mailto:contact@krikou.dev)
 
 ---
